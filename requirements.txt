@@ -1,1 +1,5 @@
-venv\Scripts\pip freeze > requirements.txt
+streamlit
+pandas
+requests
+plotly
+statsmodels
